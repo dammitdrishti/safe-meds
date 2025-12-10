@@ -1,0 +1,7 @@
+{
+  "name": "Safe-Meds",
+  "description": "Your personal AI drug safety agent. Scan medications to check for interactions with your health profile.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
